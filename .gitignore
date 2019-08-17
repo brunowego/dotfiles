@@ -2,4 +2,5 @@
 
 !/.editorconfig
 !/.gitignore
+!/.npmrc
 !/README.md
